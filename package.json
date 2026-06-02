@@ -10,4 +10,9 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs"
-}
+},
+  "scripts": {
+    "lint": "eslint src/",
+    "test": "jest",
+    "build": "your-build-command"
+  }
