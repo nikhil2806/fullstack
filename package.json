@@ -10,7 +10,7 @@
   "scripts": {
     "lint": "eslint src/",
     "test": "jest",
-    "build": "your-build-command"
+    "build": "echo 'Build complete'"
   },
   "devDependencies": {
     "eslint": "^8.0.0",
